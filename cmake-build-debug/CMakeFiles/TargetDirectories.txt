@@ -1,0 +1,3 @@
+/Users/lushize/CLionProjects/My_coroutine/cmake-build-debug/CMakeFiles/My_coroutine.dir
+/Users/lushize/CLionProjects/My_coroutine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lushize/CLionProjects/My_coroutine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
